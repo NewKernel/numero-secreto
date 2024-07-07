@@ -1,7 +1,7 @@
  
 <h1>Juego del numero secreto</h1>
   <p align="left">
-   <img src="/Juego_Numero_v1.1/img/STATUS-EN-20DESAROLLO-green.png">
+   <img src="/img/STATUS-EN-20DESAROLLO-green.png">
    
    </p>
 
