@@ -14,6 +14,7 @@
 <ul>
 <li>configurar funcion para terminar el juego al llenar el Array</li>
 <li>fixear funcion para reiniciar el juego limpiando numeros sorteados</li>
+ <li>agregar laddeboard</li>
 </ul>
 
 
